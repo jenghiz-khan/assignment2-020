@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"assignment-2/initializers"
-	"assignment-2/models"
+	"github.com/jenghiz-khan/assignment2-020/initializers"
+	"github.com/jenghiz-khan/assignment2-020/models"
 	"fmt"
 
 	"github.com/gin-gonic/gin"
