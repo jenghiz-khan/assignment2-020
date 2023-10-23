@@ -1,3 +1,3 @@
-module assignment-2
+module assignment2-020
 
 go 1.21.0
