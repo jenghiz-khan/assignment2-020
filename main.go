@@ -1,8 +1,8 @@
 package main
 
 import (
-	"assignment-2/controllers"
-	"assignment-2/initializers"
+	"github.com/jenghiz-khan/assignment2-020/controllers"
+	"github.com/jenghiz-khan/assignment2-020/initializers"
 
 	"github.com/gin-gonic/gin"
 )
